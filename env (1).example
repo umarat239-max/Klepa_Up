@@ -1,0 +1,8 @@
+BOT_TOKEN=токен_от_BotFather
+OPENROUTER_KEY=ключ_openrouter
+PUBLIC_URL=https://ваш-сервис.onrender.com
+DATABASE_URL=postgres://...
+ADMIN_IDS=1424001997
+CHANNEL=@KlepaUp
+BOT_USERNAME=
+APP_SHORT=
